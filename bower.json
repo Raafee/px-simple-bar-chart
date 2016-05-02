@@ -25,5 +25,10 @@
     "iron-component-page": "PolymerElements/iron-component-page#~v1.1.0",
     "px-starter-kit-design": "https://github.com/PredixDev/px-starter-kit-design.git#~0.4.0",
     "px-slider": "https://github.com/PredixDev/px-slider.git#~0.1.0"
+  },
+  "resolutions": {
+    "px-simple-chart-common-behavior": "~1.3.0",
+    "px-theme": "~0.7.0",
+    "polymer": "~v1.4.0"
   }
 }
