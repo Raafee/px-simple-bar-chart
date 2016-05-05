@@ -1,6 +1,6 @@
 {
   "name": "px-simple-bar-chart",
-  "version": "1.3.1",
+  "version": "1.3.5",
   "main": [
     "px-simple-bar-chart.html"
   ],
@@ -18,7 +18,8 @@
     "px-theme": "https://github.com/PredixDev/px-theme.git#~0.7.0",
     "d3": "~3.5.6",
     "iron-ajax": "PolymerElements/iron-ajax#~1.1.1",
-    "px-simple-chart-common-behavior": "https://github.com/PredixDev/px-simple-chart-common-behavior.git#~1.3.0"
+    "px-simple-chart-common-behavior": "https://github.com/PredixDev/px-simple-chart-common-behavior.git#~1.3.0",
+    "es6-promise": "~3.0.2"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#~v1.1.0",
@@ -26,14 +27,13 @@
     "px-slider": "https://github.com/PredixDev/px-slider.git#~0.4.0"
   },
   "homepage": "https://github.com/PredixDev/px-simple-bar-chart",
-  "_release": "1.3.1",
+  "_release": "1.3.5",
   "_resolution": {
     "type": "version",
-    "tag": "v1.3.1",
-    "commit": "6f541178848fcb9486daf5b99a7215698e4b0234"
+    "tag": "v1.3.5",
+    "commit": "f28d18698a1b22af5a7b3b6216547a5032898c28"
   },
   "_source": "https://github.com/PredixDev/px-simple-bar-chart.git",
   "_target": "~1.3.1",
-  "_originalSource": "px-simple-bar-chart",
-  "_direct": true
+  "_originalSource": "px-simple-bar-chart"
 }
