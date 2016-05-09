@@ -1,3 +1,11 @@
+v0.4.2
+=================
+* added pull request test for travis and updated OSS Notice
+
+v0.4.1
+=================
+* added auto github pages functionality
+
 v0.4.0
 =================
 * Upgrade to Polymer 1.4.0
