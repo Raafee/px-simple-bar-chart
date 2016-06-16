@@ -1,6 +1,6 @@
 {
   "name": "px-simple-bar-chart",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "main": [
     "px-simple-bar-chart.html"
   ],
@@ -29,11 +29,5 @@
     "iron-component-page": "PolymerElements/iron-component-page#~v1.1.0",
     "px-starter-kit-design": "https://github.com/PredixDev/px-starter-kit-design.git#~0.4.0",
     "px-slider": "https://github.com/PredixDev/px-slider.git#~0.5.0"
-  },
-  "resolutions": {
-    "px-theme": "~0.8.0",
-    "px-simple-chart-common-behavior": "~1.4.0",
-    "polymer": "^1.2.1",
-    "px-simple-bar-chart": "^1.4.0"
   }
 }
