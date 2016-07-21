@@ -1,6 +1,6 @@
 {
   "name": "px-simple-bar-chart",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "main": [
     "px-simple-bar-chart.html"
   ],
@@ -40,14 +40,19 @@
     "ace-widget": "LostInBrittany/ace-widget#~1.0.13",
     "px-api-viewer": "^0.0.1",
     "px-clipboard": "^0.0.4",
-    "px-demo-snippet": "^0.0.8"
+    "px-demo-snippet": "^0.0.8",
+    "px-list-inline-design": "^0.2.11",
+    "px-toggle-design": "^0.2.12",
+    "px-headings-design": "^0.2.14",
+    "px-actionable-text-icons-design": "^0.0.3",
+    "px-code-design": "~0.2.11"
   },
   "homepage": "https://github.com/PredixDev/px-simple-bar-chart",
-  "_release": "1.5.2",
+  "_release": "1.5.3",
   "_resolution": {
     "type": "version",
-    "tag": "v1.5.2",
-    "commit": "1cb915970d8a7172edfb7c874b9bc0b615a7de10"
+    "tag": "v1.5.3",
+    "commit": "fcd880410a7e67c9ddad685ebe98ea9af52de3a0"
   },
   "_source": "https://github.com/PredixDev/px-simple-bar-chart.git",
   "_target": "^1.4.0",

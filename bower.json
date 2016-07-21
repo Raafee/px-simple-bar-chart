@@ -1,6 +1,6 @@
 {
   "name": "px-simple-bar-chart",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "main": [
     "px-simple-bar-chart.html"
   ],
@@ -40,10 +40,11 @@
     "ace-widget": "LostInBrittany/ace-widget#~1.0.13",
     "px-api-viewer": "^0.0.1",
     "px-clipboard": "^0.0.4",
-    "px-demo-snippet": "^0.0.8"
-  },
-  "resolutions": {
-    "px": "1.4.2",
-    "es6-promise": "3.2.2"
+    "px-demo-snippet": "^0.0.8",
+    "px-list-inline-design": "^0.2.11",
+    "px-toggle-design": "^0.2.12",
+    "px-headings-design": "^0.2.14",
+    "px-actionable-text-icons-design": "^0.0.3",
+    "px-code-design": "~0.2.11"
   }
 }
