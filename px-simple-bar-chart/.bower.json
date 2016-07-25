@@ -1,6 +1,6 @@
 {
   "name": "px-simple-bar-chart",
-  "version": "1.5.5",
+  "version": "1.5.6",
   "main": [
     "px-simple-bar-chart.html"
   ],
@@ -48,11 +48,11 @@
     "px-code-design": "~0.2.11"
   },
   "homepage": "https://github.com/PredixDev/px-simple-bar-chart",
-  "_release": "1.5.5",
+  "_release": "1.5.6",
   "_resolution": {
     "type": "version",
-    "tag": "v1.5.5",
-    "commit": "613b2174b2d2f18cf5d63b75d5818e1a13a739ca"
+    "tag": "v1.5.6",
+    "commit": "4a11d59063177e357e99cc8d588e1c2d0e7139d2"
   },
   "_source": "https://github.com/PredixDev/px-simple-bar-chart.git",
   "_target": "^1.4.0",
