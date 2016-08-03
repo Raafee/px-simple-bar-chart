@@ -1,3 +1,11 @@
+v0.5.5
+=================
+* removed broken example
+
+v0.5.4
+=================
+* added image to readme, removed watch, added view on github
+
 v0.5.3
 =================
 * updated gh-pages script to vulcanize demo
