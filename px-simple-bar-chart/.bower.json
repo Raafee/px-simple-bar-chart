@@ -1,6 +1,6 @@
 {
   "name": "px-simple-bar-chart",
-  "version": "1.6.0",
+  "version": "1.6.2",
   "main": [
     "px-simple-bar-chart.html"
   ],
@@ -24,8 +24,8 @@
     "px-theme": "~1.1.2",
     "d3": "~3.5.6",
     "iron-ajax": "PolymerElements/iron-ajax#~1.4.3",
-    "px-simple-chart-common-behavior": "~1.5.0",
-    "es6-promise": "3.2.2"
+    "px-simple-chart-common-behavior": "~1.5.1",
+    "es6-promise": "^3.3.1"
   },
   "devDependencies": {
     "px-starter-kit-design": "~0.6.0",
@@ -38,7 +38,7 @@
     "iron-demo-helpers": "PolymerElements/iron-demo-helpers#~1.2.3",
     "px-tabs": "~0.5.2",
     "px-api-viewer": "^0.1.0",
-    "px-demo-snippet": "^0.5.1",
+    "px-demo-snippet": "^0.5.2",
     "px-list-inline-design": "^0.2.11",
     "px-toggle-design": "^0.2.12",
     "px-headings-design": "^0.2.14",
@@ -48,11 +48,11 @@
     "px-polymer-font-awesome": "^0.1.9"
   },
   "homepage": "https://github.com/PredixDev/px-simple-bar-chart",
-  "_release": "1.6.0",
+  "_release": "1.6.2",
   "_resolution": {
     "type": "version",
-    "tag": "v1.6.0",
-    "commit": "bc717b0fb8beb27c66d29598ea40aa3639d53c11"
+    "tag": "v1.6.2",
+    "commit": "e4ad96bfb2b69fdc11b32aeeaaf93299fd8296fa"
   },
   "_source": "https://github.com/PredixDev/px-simple-bar-chart.git",
   "_target": "^1.4.0",
